@@ -1,6 +1,6 @@
 <div align=center>
  
-# KARMA DDoS
+# Zero DDOS
  <p>
  <img src="https://img.shields.io/github/stars/HyukIsBack/KARMA-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/HyukIsBack/KARMA-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
@@ -17,9 +17,6 @@
 
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
-
-## Menu
-![karma](https://user-images.githubusercontent.com/87601386/165147097-7f6f4f6d-f9fd-4a53-b3fa-a16fe739e963.png)
 
 ## Methods
 
@@ -51,9 +48,6 @@
  - Geoip   | Geo IP Address Lookup
  - Subnet  | Subnet IP Address Lookup
 ```
-
-## Videos
-[![](https://user-images.githubusercontent.com/87601386/161339371-b6dfaa8f-1cf2-41d1-85c1-d82cdd98def1.png)](https://www.youtube.com/watch?v=MPKdfhPeLeE)
 
 ## Usage on Linux
 ```sh
